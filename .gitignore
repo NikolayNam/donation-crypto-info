@@ -1,0 +1,19 @@
+# secrets and other #
+######################
+*.env
+*.crt
+*.csr
+*.key
+*.sql
+.vscode
+/ssl
+/env
+
+# cahce files + alembic/versions #
+*.pyc
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
